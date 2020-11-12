@@ -10,3 +10,4 @@
 - [S01E05: I want to run RabbitMQ on K8S - Where do I start? 2020-05-29](s01/e05/README.md)
 - [S01E06: How to run a reliable RabbitMQ on K8S? 2020-09-30](s01/e06/README.md)
 - [S01E07: How to monitor RabbitMQ? 2020-11-10](s01/e07/README.md)
+- [S01E09: Testing RabbitMQ Resiliency on Kubernetes, ???](s01/e09/README.md)
